@@ -1,0 +1,3 @@
+Sitemap: http://www.hugomfcruz.com
+User-agent: *
+Disallow: /assets
